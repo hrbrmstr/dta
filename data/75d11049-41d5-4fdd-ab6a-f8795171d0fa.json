@@ -1,0 +1,16 @@
+{
+  
+  "app_name" : "Sarahah",
+  "app_version" : "1.0.08",
+  "publisher" : "Sarahah",
+  "platform" : [ "android", "ios" ],
+  "date_removal_sugessted" : "2017-08-30",
+  "violations" : [ "leaks_other_data", "steals_contacts", "mal_infected", "excessive_permissions", "malvertising" ],
+  "removal_reason_text" : "On Android, it steals your contacts on load. On iOS it asks for permission to access contacts and then uploads them without telling you.",
+  "additional_comments" : "",
+  "permanent_remove" : true,
+  "appcensus_url" : null,
+  "app_store_links" : [ "https://play.google.com/store/apps/details?id=com.sarahah.android&hl=en", "https://play.google.com/store/apps/details?id=com.sarahah.android&hl=en" ], 
+  "relevant_links" : [ "https://theintercept.com/2017/08/27/hit-app-sarahah-quietly-uploads-your-address-book/" ]
+  
+}
