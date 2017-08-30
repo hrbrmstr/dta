@@ -1,0 +1,15 @@
+{
+  
+  "app_name" : "CVS/pharmacy",
+  "app_version" : "3.7",
+  "publisher" : "CVS/pharmacy",
+  "platform" : [ "android" ],
+  "date_removal_sugessted" : "1970-01-01",
+  "violations" : [ "leaks_location_data", "leaks_other_data", "steals_contacts", "mal_infected", "excessive_permissions", "malvertising" ],
+  "removal_reason_text" : "Due to what is likely a coding mishap, location data is sent to the web servers of any third party resource used in the application views. Over 40 different sites currently receive the location data.",
+  "permanent_remove" : true,
+  "appcensus_url" : "https://www.appcensus.mobi/app/com.cvs.launchers.cvs/73",
+  "app_store_links" : ["https://play.google.com/store/apps/details?id=com.cvs.launchers.cvs" ], 
+  "relevant_links" : [ "https://blog.appcensus.mobi/2017/08/25/cvs-discretely-shares-your-location/", "https://www.cnet.com/news/cvs-app-sends-your-location-to-40-servers-researchers-say/#ftag=COS-05-10aaa0j" ]
+  
+}

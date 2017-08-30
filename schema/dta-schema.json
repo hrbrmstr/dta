@@ -1,0 +1,14 @@
+{
+  
+  "app_name" : "Some Silly App",
+  "app_version" : "v1.0",
+  "publisher" : "Some Clueless Publisher",
+  "platform" : [ "windows", "macos", "linux", "ios", "android", "chrome", "other" ],
+  "date_removal_sugessted" : "1970-01-01",
+  "violations" : [ "leaks_location_data", "leaks_other_data", "steals_contacts", "mal_infected", "excessive_permissions", "malvertising" ],
+  "removal_reason_text" : "",
+  "permanent_remove" : true,
+  "appcensus_url" : "https://www.appcensus.mobi/app/xyz/##",
+  "relevant_links" : [ "https://url.com", "https://url.com" ]
+  
+}
