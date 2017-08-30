@@ -8,4 +8,4 @@ The database will be platform-agnostic. Offending apps on Windows, macOS, iOS, L
 
 I'm still working out the schema and it'll likely change, but the idea is to have one JSON file per "public service announcement" (PSA) for app removals on Twitter and auto-gen a Hugo blog from it.
 
-Feel free to contribute app del suggestions via JSON files and schema posits via PRs. If doing the former, use something like `uuid::UUIDgenerate()` (that in R code) to generate a UUID for the JSON entry file name until I get a mini-pkg & Shiny app written.
+Feel free to contribute app del suggestions via JSON files and schema posits via PRs. If doing the former, use something like `uuid::UUIDgenerate()` (that is R code) to generate a UUID for the JSON entry file name until I get a mini-pkg & Shiny app written.
