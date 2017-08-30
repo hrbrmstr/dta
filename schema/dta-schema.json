@@ -4,7 +4,7 @@
   "app_version" : "v1.0",
   "publisher" : "Some Clueless Publisher",
   "platform" : [ "windows", "macos", "linux", "ios", "android", "chrome", "other" ],
-  "date_removal_sugessted" : "1970-01-01",
+  "date_removal_suggested" : "1970-01-01",
   "violations" : [ "leaks_location_data", "leaks_other_data", "steals_contacts", "mal_infected", "excessive_permissions", "malvertising" ],
   "removal_reason_text" : "",
   "additional_comments" : "",
