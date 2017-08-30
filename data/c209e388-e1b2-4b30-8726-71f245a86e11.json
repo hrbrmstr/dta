@@ -4,7 +4,7 @@
   "app_version" : "3.7",
   "publisher" : "CVS/pharmacy",
   "platform" : [ "android" ],
-  "date_removal_sugessted" : "2017-08-30",
+  "date_removal_suggested" : "2017-08-30",
   "violations" : [ "leaks_location_data" ],
   "removal_reason_text" : "Due to what is likely a coding mishap, location data is sent to the web servers of any third party resource used in the application views. Over 40 different sites currently receive the location data.",
   "additional_comments" : "",
